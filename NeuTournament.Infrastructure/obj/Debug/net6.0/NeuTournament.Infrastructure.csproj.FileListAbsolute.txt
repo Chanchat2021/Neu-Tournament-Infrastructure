@@ -1,0 +1,17 @@
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Infrastructure.deps.json
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Infrastructure.runtimeconfig.json
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Domain.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\bin\Debug\net6.0\NeuTournament.Domain.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.AssemblyInfo.cs
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.csproj.CopyComplete
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\refint\NeuTournament.Infrastructure.dll
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.pdb
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\NeuTournament.Infrastructure.genruntimeconfig.cache
+C:\Users\Chandan.Chatterjee\Source\Repos\NeuTournament-API-May22\src\NeuTournament.Infrastructure\obj\Debug\net6.0\ref\NeuTournament.Infrastructure.dll
